@@ -1,0 +1,161 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = ""
+languageCode = "en-AU"
+title = "SAFS GSS Panel"
+
+# Metadata
+[params]
+  author = "Mark Scheuerell"
+  description = "Panel moderator"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "An introduction to non-academic careers in environmental science"
+  description = "30<sup>th</sup> Annual Graduate Student Symposium<br>UW School of Aquatic and Fishery Sciences"
+
+# Navigation section
+[params.nav]
+  mission = "Information"
+  services = "Services"
+  team = "The panel"
+  contact = "Get In Touch"
+  # Include logo instead if HOME:
+  # logo = "path/to/logo"
+
+# Mission section
+[params.mission]
+  enable = true
+
+  [params.mission.images]
+    enable = true
+
+    [[params.mission.images.list]]
+      img = "images/eagle.jpg"
+    [[params.mission.images.list]]
+      img = "images/bear_lake.jpg"
+    [[params.mission.images.list]]
+      img = "images/LTR_top.jpg"
+    [[params.mission.images.list]]
+      img = "images/sockeye2.jpg"
+
+  [[params.mission.item]]
+    weight = 1
+    name = "background"
+    title = "background"
+    subtitle = ""
+    description = "<p>We recognize that it can be difficult for graduate students to navigate the various career options available to scientists with advanced degrees in the environmental sciences. Due to the very nature of academic environments, most students have a pretty good idea of what it’s like to be a professor by the time they graduate, but relatively few students have an equal appreciation for the array of alternative career possibilities. Furthermore, although academic careers continue to be a preferred path for some individuals, those jobs are increasingly rare and extremely competitive, and hence more graduates are pursuing non-academic careers. This panel discussion is therefore intended to introduce graduate students to the spectrum of non-academic career options in environmental science, and highlight their importance to society at large."
+
+  [[params.mission.item]]
+    weight = 2
+    name = "format"
+    title = "Format"
+    subtitle = ""
+    description = "<p>Each panelist will be given 6 minutes to describe her background and the nature of her current position, including its pros and cons. Panelists are also allowed one slide that exemplifies \"a day in the life\". Afterward, we will have a moderated Q&A session with audience members.</p>"
+
+  [[params.mission.item]]
+    weight = 3
+    name = "timing"
+    title = "Date & time"
+    subtitle = ""
+    description = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> Rm 207 Anderson Hall<p>The panel discussion will occur during the midday break from oral presentations. Please note that lunch will be provided for panel members and those SAFS grad students who registered for the event. Others are welcome to attend as well, space permitting.</p>"
+
+# Team section
+[params.team]
+  enable = true
+  title = "Meet the panel"
+  description = ""
+
+  [[params.team.item]]
+    name = "Dr. Neala Kendall"
+    position = "Washington Department of Fish and Wildlife"
+    description = "Dr. Kendall leads the Statewide Quantitative Synthesis and Reporting Unit at the Washington Department of Fisheries and Wildlife, a team of scientists working on salmonid conservation and recovery across Washington State. Neala received her PhD in Aquatic & Fishery Sciences from the University of Washington."
+    img = "images/neala.jpg"
+    email = "Neala.Kendall@dfw.wa.gov"
+    twitter = "https://twitter.com/NealaKendall"
+    linkedin = "https://www.linkedin.com/in/neala-kendall-37056a20/"
+    website = "https://wdfw.wa.gov/species-habitats"
+
+  [[params.team.item]]
+    name = "Dr. Jodie Toft"
+    position = "Puget Sound Restoration Fund"
+    description = "Dr. Toft is the Deputy Director of the Puget Sound Restoration Fund, where she advances their science, expands partnerships, and builds support for their unique brand of in-water restoration. Prior to joining PSRF, Jodie worked at The Nature Conservancy and The Natural Capital Project. Jodie received her PhD in Aquatic & Fishery Sciences from the University of Washington."
+    img = "images/jodie.jpg"
+    email = "jodie@restorationfund.org"
+    twitter = "https://twitter.com/jetoft77"
+    linkedin = "https://www.linkedin.com/in/jodie-toft-97503a80/"
+    website = "https://restorationfund.org/"
+
+  [[params.team.item]]
+    name = "Dr. Sacha Vignieri"
+    position = "Science Magazine"
+    description = "Dr. Vignieri is a Deputy Editor for Research at the scientific journal <i>Science</i>, where she leads the decision making process for papers submitted in the fields of ecology, evolution, conservation, fisheries, vertebrate paleontology and others. As one of three Deputy Editors for Research she also leads a team of other editors and further participates in strategy, management and planning for the journal. Sacha received her PhD in Zoology from the University of Washington."
+    img = "images/sacha.jpg"
+    email = "svignier@aaas.org"
+    twitter = "https://twitter.com/svignieri"
+    linkedin = "https://www.linkedin.com/in/sachavignieri/"
+    website = "https://science.sciencemag.org/"
+
+  [[params.team.item]]
+    name = "Ms. Jennifer Scheuerell"
+    position = "Sound Data Management"
+    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO), Spain, and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
+    img = "images/jennifer.jpg"
+    email = "jennifer@sound-data.com"
+    twitter = "https://twitter.com/sound_data_"
+    linkedin = "https://www.linkedin.com/in/jennifer-scheuerell-45887021/"
+    website = "http://hydra3.sound-data.com/about/"
+
+  [[params.team.item]]
+    name = "Dr. Melissa Poe"
+    position = "Washington Sea Grant"
+    description = "Dr. Poe leads the social science program at Washington Sea Grant. She works with communities to address the social and cultural dimensions of Pacific Northwest marine ecosystems with a current focus on ocean change, food systems, and integrating local and indigenous knowledge in ecosystem-based management. Melissa received her PhD in Environmental Anthropology from the University of Washington."
+    img = "images/melissa.jpg"
+    email = "mpoe@uw.edu"
+    twitter = "https://twitter.com/mpoetree"
+    linkedin = "https://www.linkedin.com/in/melissa-r-poe-033aaa2b/"
+    website = "https://wsg.washington.edu/about-wsg/staff-dir/melissa-poe/"
+
+  [[params.team.item]]
+    name = "Dr. Beth Sanderson"
+    position = "National Marine Fisheries Service"
+    description = "Dr. Sanderson leads the Ecosystem Analysis Program at the Northwest Fisheries Science Center, where she oversees a variety of research projects related to the conservation of threatened and endangered species, effects of non-native species, and use of shellfish aquaculture sites by marine fauna. Beth received her PhD in Zoology from the University of Wisconsin-Madison."
+    img = "images/beth.jpg"
+    email = "beth.sanderson@noaa.gov"
+    twitter = "https://twitter.com/SandersonBeth"
+    linkedin = "https://www.linkedin.com/in/beth-sanderson-90305a95/"
+    website = "https://www.nwfsc.noaa.gov/contact/display_staffprofile.cfm?staffid=540"
+
+  [[params.team.item]]
+    name = "Dr. Amanda Stanley"
+    position = "COMPASS"
+    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership to scientists looking to effectively share their knowledge in public discourse and decision-making. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, a private philanthropic organization that supports land, water and wildlife conservation efforts in western north america. Amanda received her PhD in Zoology from the University of Washington."
+    img = "images/amanda.jpg"
+    email = "amanda.stanley@compassscicomm.org"
+    twitter = "https://twitter.com/AmandaConsSci"
+    linkedin = "https://www.linkedin.com/in/amanda-stanley-64167211/"
+    website = "https://www.compassscicomm.org/"
+
+  [[params.team.item]]
+    name = "Dr. Mark Scheuerell"
+    position = "Panel moderator"
+    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences, and the assistant leader of the Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). Prior to joining the UW and WACFWRU, Mark spent 16 years as a research biologist with the National Marine Fisheries Service. He received his PhD in Zoology from the University of Washington."
+    img = "images/mark.jpg"
+    email = "scheuerl@uw.edu"
+    twitter = "https://twitter.com/mark_scheuerell"
+    linkedin = "https://www.linkedin.com/in/markscheuerell/"
+    website = "https://fish.uw.edu/faculty/mark-scheuerell/"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2019 Mark Scheuerell <br> <a href='https://github.com/mdscheuerell/safs_gss/' target='_blank'>Design</a> based upon the Hugo Icon theme by <a href='https://github.com/SteveLane/' target='_blank'>Steve Lane</a></small></p>"
+  #github = "#"
+  #twitter = "#"
+  #facebook = "#"
+  #vine = "#"
+  #linkedin = "#"
+  #instagram = "#"
+  
