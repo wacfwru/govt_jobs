@@ -73,7 +73,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     position = ""
     description = "Dr. Converse is the Unit Leader of the U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). She is also an associate professor in the School of Aquatic and Fishery Sciences and the School of Environmental and Forest Sciences. Prior to joining the WACFWRU and UW, Sarah spent 10 years as a research ecologist with the U.S. Geological Survey's Patuxent Wildlife Research Center. Dr. Converse received her PhD in Wildlife Biology from Colorado State University."
     img = "images/sarah.jpg"
-    email = "sconvers@uw.edu"
+    email = "sconver@uw.edu"
     twitter = "https://twitter.com/conversesj"
     website = "https://fish.uw.edu/faculty/sarah-converse/"
 
