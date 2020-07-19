@@ -8,3 +8,7 @@ This is a collection of outreach materials for highlighting opportunities for fe
 10:00 - 11:00 AM
 
 [add link to recording here](link_here)
+
+## More information
+
+You can find more information [here](https://govt-jobs.netlify.app/).
