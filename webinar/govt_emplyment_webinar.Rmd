@@ -1,0 +1,64 @@
+---
+title: "Insights into government employment"
+author: "Sarah Converse & Mark Scheuerell"
+date: "22 July 2020"
+output: 
+  powerpoint_presentation:
+    reference_doc: template.pptx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Big picture: where are career opportunities in environmental sciences? (Mark)
+Academia 
+Consulting 
+Non-profit organizations 
+For-profit companies 
+Federal government  (We’ll focus here) 
+State and municipal government  
+A bit about our journeys: how did we get here? (10 min total)
+Mark 
+Sarah 
+Where in the federal government are job opportunities? Some of the likely places... (Sarah)
+Department of Interior 
+USGS 
+USFWS
+NPS (Steve Fradkin)
+BOR 
+BLM 
+etc.  
+Department of Agriculture 
+USFS (Ashley Steele) 
+Department of Commerce 
+NOAA
+Department of Defense 
+Independent agencies
+EPA (Amina Pollard, Jeff Hollister)
+NASA
+NSF (Stephanie Hampton, Kathy Cottingham, Pat Soranno)
+Smithsonian 
+etc. 
+Contract positions
+How and where
+Pros & cons
+Things to know about federal employment (Mark)
+Research vs Management positions
+Working in a research position vs a management position
+RGE process, promotion potential, evaluation criteria 
+Term vs permanent positions  
+Advocacy, political activity, and federal employment 
+Pros vs cons 
+Funding 
+Federal appropriations 
+Internal/external funding 
+Getting a federal job (Sarah) 
+USAJobs
+Position classifications/job series and educational requirements  
+Tips
+Setting up alerts 
+Uploading a resume
+Cover letters
+Meeting educational requirements 
+Reaching out to hiring officials 
