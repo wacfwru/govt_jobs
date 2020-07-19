@@ -31,7 +31,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## State and municipal government  
 
+
 # How did we get here?
+
 
 ## Mark 
 
@@ -39,46 +41,101 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Sarah 
 
 
-# Where in the federal government are job opportunities? Some of the likely places... (Sarah)
-Department of Interior 
-USGS 
-USFWS
-NPS (Steve Fradkin)
-BOR 
-BLM 
-etc.  
-Department of Agriculture 
-USFS (Ashley Steele) 
-Department of Commerce 
-NOAA
-Department of Defense 
-Independent agencies
-EPA (Amina Pollard, Jeff Hollister)
-NASA
-NSF (Stephanie Hampton, Kathy Cottingham, Pat Soranno)
-Smithsonian 
-etc. 
-Contract positions
-How and where
-Pros & cons
-Things to know about federal employment (Mark)
-Research vs Management positions
-Working in a research position vs a management position
-RGE process, promotion potential, evaluation criteria 
-Term vs permanent positions  
-Advocacy, political activity, and federal employment 
-Pros vs cons 
-Funding 
-Federal appropriations 
-Internal/external funding 
-Getting a federal job (Sarah) 
-USAJobs
-Position classifications/job series and educational requirements  
-Tips
-Setting up alerts 
-Uploading a resume
-Cover letters
-Meeting educational requirements 
-Reaching out to hiring officials 
+# Where are government jobs? (Sarah)
+
+## Department of Interior 
+
+* USGS
+
+* USFWS
+
+* NPS (Steve Fradkin)
+
+* BOR 
+
+* BLM 
+
+
+## Department of Agriculture 
+
+* USFS (Ashley Steele)
+
+
+## Department of Commerce 
+
+* NOAA
+
+
+## Department of Defense 
+
+
+## Independent agencies
+
+* EPA (Amina Pollard, Jeff Hollister)
+
+* NASA
+
+* NSF (Stephanie Hampton, Kathy Cottingham, Pat Soranno)
+
+* Smithsonian 
+
+* Contract positions
+
+
+## How and where
+
+
+## Pros & cons
+
+
+# Things to know about federal employment (Mark)
+
+
+## Research vs Management positions
+
+
+## Working in a research position vs a management position
+
+
+## RGE process, promotion potential, evaluation criteria 
+
+
+## Term vs permanent positions  
+
+
+## Advocacy, political activity, and federal employment 
+
+
+## Pros vs cons 
+
+
+## Funding 
+
+* Federal appropriations 
+
+* Internal/external funding 
+
+
+# Getting a federal job (Sarah) 
+
+## USAJobs
+
+* Setting up alerts 
+
+* Uploading a resume
+
+* Cover letters
+
+
+## Position classifications/job series and educational requirements  
+
+
+## Tips
+
+
+## Meeting educational requirements 
+
+
+## Reaching out to hiring officials 
 
 
