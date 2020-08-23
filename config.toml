@@ -53,17 +53,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "format"
     title = "Format"
     subtitle = ""
-    description = "<p>Sarah and Mark will describe their personal journeys to and in federal service, the pros and cons of federal employment, and how to maximize your chances of landing a federal position.<br>You can find the slides [here](https://github.com/wacfwru/govt_jobs/blob/master/webinar/federal_jobs_webinar.pdf).<br>You can watch a recording of the webinar [here](https://www.youtube.com/watch?v=Oqhw8scX9L8).</p>"
+    description = "Sarah and Mark will describe their personal journeys to and in federal service, the pros and cons of federal employment, and how to maximize your chances of landing a federal position.<br><br>You can find the slides [here](https://github.com/wacfwru/govt_jobs/blob/master/webinar/federal_jobs_webinar.pdf).<br><br>You can watch a recording of the webinar [here](https://www.youtube.com/watch?v=Oqhw8scX9L8)."
 
   [[params.mission.item]]
     weight = 3
-    name = "timing"
-    title = "Date & time"
-    subtitle = ""
-    description = "<b>Date:</b> 22 July 2020<br><b>Time:</b> 10:00-11:00<br><b>Location:</b> Zoom webinar<p>The presenters will share their experiences in and insights into what kinds of government jobs are available, and how to maximize your chances of landing one.</p>"
-
-  [[params.mission.item]]
-    weight = 4
     name = "FAQ"
     title = "FAQ"
     subtitle = ""
